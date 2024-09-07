@@ -1,0 +1,20 @@
+ .todo-container input{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  font-size: 30px;
+}
+
+.items h6{
+  text-align: left;
+  font-size: 20px;
+  margin: 10px;
+}
+.items p {
+  text-align: left;
+  font-size: 20px;
+  margin: 10px;
+}
+.items button{
+  width: 100%;
+}
